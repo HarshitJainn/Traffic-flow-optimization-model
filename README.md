@@ -1,6 +1,6 @@
 # 🚦 Traffic Flow Optimization and Congestion Management
 
-This repository contains our approach and initial implementation for the problem statement:  
+This repository contains the approach and initial implementation for the problem statement:  
 **Traffic Flow Optimization and Congestion Management**.
 
 ---
@@ -60,11 +60,3 @@ This repository contains our approach and initial implementation for the problem
 - Integrate analytics dashboard for historical data visualization.
 
 ---
-
-## 📬 Contact
-
-For any queries or collaboration opportunities, feel free to reach out via the project Drive link or drop a message through GitHub Issues.
-
----
-
-*We are continuously working on improving this project and appreciate any feedback or suggestions you may have!*
